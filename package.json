@@ -1,0 +1,14 @@
+{
+  "name": "adivina_numero_secreto",
+  "version": "1.0.0",
+  "description": "Actividad 2 curso nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Maria Sian",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
